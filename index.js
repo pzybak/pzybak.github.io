@@ -1,9 +1,7 @@
 import {
   bio,
   skills,
-  education,
   experience,
-  trekking,
   footer,
 } from "./user-data/data.js";
 
