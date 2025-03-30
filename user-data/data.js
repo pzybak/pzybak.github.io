@@ -25,7 +25,7 @@ export const experience = [
       "Achieved superior ratings at University Interscholastic League (UIL) Region Marching Contest and Concert/Sightreading Contest",
     ],
     tags: ["",],
-    icon: "truck",
+    icon: "music",
   },
   {
     title: "Jersey Surf Drum and Bugle Corps",
@@ -38,7 +38,7 @@ export const experience = [
       "Coordinated with other staff members to ensure that sub-sectional rehearsal goals aligned with big-picture ensemble goals",
     ],
     tags: ["",],
-    icon: "truck",
+    icon: "music",
   },
   {
     title: "Spearman Independent School District",
@@ -51,7 +51,7 @@ export const experience = [
       "Achieved superior ratings at UIL Concert/Sightreading Contest",
     ],
     tags: ["",],
-    icon: "truck",
+    icon: "music",
   },
 ];
 
