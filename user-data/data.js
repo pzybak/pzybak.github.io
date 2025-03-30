@@ -24,6 +24,8 @@ export const experience = [
       "Mentor a team of instrumental music educators, promoting a collaborative culture that focuses on student outcomes",
       "Achieved superior ratings at University Interscholastic League (UIL) Region Marching Contest and Concert/Sightreading Contest",
     ],
+    tags: ["",],
+    icon: "truck",
   },
   {
     title: "Jersey Surf Drum and Bugle Corps",
@@ -35,6 +37,8 @@ export const experience = [
       "Ensured consistency of technique and approach among members",
       "Coordinated with other staff members to ensure that sub-sectional rehearsal goals aligned with big-picture ensemble goals",
     ],
+    tags: ["",],
+    icon: "truck",
   },
   {
     title: "Spearman Independent School District",
@@ -46,6 +50,8 @@ export const experience = [
       "Instructed the Spearman Junior High School Band, focusing on curriculum alignment and collaboration with the SJH band director",
       "Achieved superior ratings at UIL Concert/Sightreading Contest",
     ],
+    tags: ["",],
+    icon: "truck",
   },
 ];
 
