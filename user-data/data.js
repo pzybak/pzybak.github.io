@@ -7,6 +7,7 @@ export const bio = [
 export const skills = [
   "2023 University Interscholastic League Concert/Sightreading Contest - Superior Rating",
   "2023 University Interscholastic League Region Marching Contest - Superior Rating",
+  "2024 Bands of America Odessa Regional - 2nd Place, Class 1A",
   "2025 University Interscholastic League Concert/Sightreading Contest - Superior Rating",
 ];
 
