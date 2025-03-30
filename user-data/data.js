@@ -30,10 +30,10 @@ export const experience = [
     duration: "April 2023 - November 2024",
     subtitle: "Front Ensemble Instructor",
     details: [
-    "Competed in the World Class division of the Drum Corps International competitive circuit",
-    "Assisted the Front Ensemble Coordinator with recruiting, selecting, and instructing auditionees",
-    "Ensured consistency of technique and approach among members",
-    "Coordinated with other staff members to ensure that sub-sectional rehearsal goals aligned with big-picture ensemble goals",
+      "Competed in the World Class division of the Drum Corps International competitive circuit",
+      "Assisted the Front Ensemble Coordinator with recruiting, selecting, and instructing auditionees",
+      "Ensured consistency of technique and approach among members",
+      "Coordinated with other staff members to ensure that sub-sectional rehearsal goals aligned with big-picture ensemble goals",
     ],
   },
   {
