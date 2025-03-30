@@ -1,108 +1,51 @@
 export const bio = [
-  "Hello, I'm Vinay Somawat!",
-  "<strong>Frontend Software Engineer</strong> with 4+ years of experience building scalable, user-focused web applications.",
-  "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
-  "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
+  "My name is Paul Zybak!",
+  "I am a music educator with several years of experience as a band director in the state of Texas.",
+  "I am passionate about setting EVERY student up to be successful and to develop a lifelong love of music.",
 ];
 
 export const skills = [
-  "JavaScript, TypeScript, Angular, AngularJS, React, HTML5, CSS, Bootstrap, Tailwind CSS",
-  "RxJS, NGXS, NGRX, WebSockets, Stencil, Storybook, Module Federation, Webpack",
-  "Jenkins, JIRA, Git",
-  "Performance Optimization, Responsive Design, Cross-Browser Compatibility",
+  "2023 University Interscholastic League Concert/Sightreading Contest - Superior Rating",
+  "2023 University Interscholastic League Region Marching Contest - Superior Rating",
+  "2025 University Interscholastic League Concert/Sightreading Contest - Superior Rating",
 ];
 
 export const experience = [
   {
-    title: "Shiprocket Private Limited",
-    duration: "September 2023 - Present",
-    subtitle: "Software Engineer",
+    title: "Tulia Independent School District",
+    duration: "August 2023 - Present",
+    subtitle: "Director of Bands",
     details: [
-      "Developed a design system using Stencil and Storybook that provides consistent UI components across platforms, ensuring a cohesive design.",
-      "Developed a dynamic support ticket panel that renders subcategories based on component IDs, handling up to 100 AWBs simultaneously.",
-      "Migrated 30+ modules from AngularJS to Angular 15 using Generative AI tools, reporting directly to the VP of Engineering.",
-      "Designed and implemented advanced features such as keyboard shortcuts, improving operational efficiency by 15 percent.",
-      "Took ownership of OKRs, collaborated with the product team, and mentored two junior developers, cutting their code review iterations and ensuring on-time feature delivery.",
+      "Lead the Hornet Marching Band and Concert Band at Tulia High School, in addition to teaching Applied Music",
+      "Manage and collaborate with the Tulia Band Boosters to coordinate logistics, events, fundraisers, and build community support for the program",
+      "Oversee the band budget, ensuring fiscal responsibility while maximizing resources for instruments, travel, and instructional materials",
+      "Develop strong relationships with parents and community stakeholders, enhancing participation and engagement in the music program",
+      "Instruct the Tulia Junior High School band program, focusing on curricular development, engagement, and teamwork through music",
+      "Mentor a team of instrumental music educators, promoting a collaborative culture that focuses on student outcomes",
+      "Achieved superior ratings at University Interscholastic League (UIL) Region Marching Contest and Concert/Sightreading Contest",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "AngularJs"],
-    icon: "truck ",
   },
   {
-    title: "Biofourmis India Private Limited",
-    duration: "April 2022 - Jul 2023",
-    subtitle: "Software Engineer",
+    title: "Jersey Surf Drum and Bugle Corps",
+    duration: "April 2023 - November 2024",
+    subtitle: "Front Ensemble Instructor",
     details: [
-      "Spearheaded the implementation of micro-frontends using Module Federation, enabling modular and scalable architecture.",
-      "Earned the Biofourmis Bravo Award for upgrading the application to support flexible operations across multiple geographies.",
-      "Enhanced performance and user experience by integrating Twilio-Video, Countly, and NGXS WebSocket for real-time data management.",
+    "Competed in the World Class division of the Drum Corps International competitive circuit",
+    "Assisted the Front Ensemble Coordinator with recruiting, selecting, and instructing auditionees",
+    "Ensured consistency of technique and approach among members",
+    "Coordinated with other staff members to ensure that sub-sectional rehearsal goals aligned with big-picture ensemble goals",
     ],
-    tags: [
-      "JavaScript",
-      "Angular",
-      "RxJS",
-      "NGXS",
-      "TypeScript",
-      "RxState",
-      "Webpack",
-      "Optimization",
-    ],
-    icon: "heartbeat",
   },
   {
-    title: "Novopay Solutions Private Limited",
-    duration: "June 2020 - April 2022",
-    subtitle: "Software Engineer",
+    title: "Spearman Independent School District",
+    duration: "August 2022 - July 2023",
+    subtitle: "Director of Bands",
     details: [
-      "Built critical banking features including AePS services (eKYC, cash withdrawal, balance inquiry) used by over 1,00,000 retailers.",
-      "Developed QR code integration for wallet money loading, streamlining retailer workflows and reducing errors by 25 percent.",
-      "Integrated Clevertap analytics, Freshdesk ticketing, and chatbot services, enhancing user support and engagement.",
+      "Led the Lynx Marching Band and Concert Band at Spearman High School, in addition to teaching Applied Music",
+      "Oversaw the band budget, ensuring fiscal responsibility while maximizing resources for instruments, travel, and instructional materials",
+      "Instructed the Spearman Junior High School Band, focusing on curriculum alignment and collaboration with the SJH band director",
+      "Achieved superior ratings at UIL Concert/Sightreading Contest",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
-    icon: "qrcode",
-  },
-  {
-    title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
-    details: [
-      `Designed and developed a social media post management panel, improving collaboration efficiency by 50 percent.`,
-    ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-    icon: "group",
-  },
-];
-
-export const trekking = [
-  "<strong>Kheerganga Trek</strong>, Himachal Pradesh (9,711 feet)",
-  "<strong>Triund Trek</strong>, Himachal Pradesh (9,350 feet)",
-  "<strong>Kedarkantha Trek</strong>, Uttarakhand (12,500 feet)",
-  "<strong>Jalori Pass Trek</strong>, Himachal Pradesh (10,800 feet)",
-  "<strong>Vaishno Devi Trek</strong>, Jammu & Kashmir (5,200 feet)",
-];
-
-export const education = [
-  {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
-    details: [],
-    tags: [
-      "Data Structures & Algorithms",
-      "Operating Systems",
-      "Database Management System",
-      "Computer Networks",
-      "Compiler Designing",
-      "Cloud Computing",
-    ],
-    icon: "graduation-cap",
-  },
-  {
-    title: "Class 12th in Science and Mathematics",
-    duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
-    details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
-    icon: "book",
   },
 ];
 
