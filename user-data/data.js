@@ -1,6 +1,6 @@
 export const bio = [
   "My name is Paul Zybak!",
-  "I am a music educator with several years of experience as a band director in the state of Texas.",
+  "I am a Virginia-based music educator. I also taught in Texas for several years.",
   "I am passionate about setting EVERY student up to be successful and to develop a lifelong love of music.",
 ];
 
@@ -13,8 +13,17 @@ export const skills = [
 
 export const experience = [
   {
+    title: "Orange County High School",
+    duration: "July 2025 - Present",
+    subtitle: "Director of Bands",
+    details: [
+    ],
+    tags: ["",],
+    icon: "music",
+  },
+  {
     title: "Tulia Independent School District",
-    duration: "August 2023 - Present",
+    duration: "August 2023 - June 2025",
     subtitle: "Director of Bands",
     details: [
       "Lead the Hornet Marching Band and Concert Band at Tulia High School, in addition to teaching Applied Music",
